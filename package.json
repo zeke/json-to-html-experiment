@@ -1,0 +1,31 @@
+{
+  "name": "json-to-html-experiment",
+  "version": "1.0.0",
+  "description": "A little browserify-friendly demo of rendering a JSON object as HTML with expandable and collapsible keys",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify index.js -o build.js && open index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeke/json-to-html-experiment.git"
+  },
+  "keywords": [
+    "json",
+    "html",
+    "tree",
+    "expand",
+    "collapse"
+  ],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeke/json-to-html-experiment/issues"
+  },
+  "homepage": "https://github.com/zeke/json-to-html-experiment#readme",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "jquery": "^2.2.1",
+    "jquery-jsonview": "^1.2.3"
+  }
+}
