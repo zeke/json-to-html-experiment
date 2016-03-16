@@ -2,7 +2,7 @@
 
 A little browserify-friendly demo of rendering a JSON object as HTML with expandable and collapsible keys
 
-<img width="387" src="https://cloud.githubusercontent.com/assets/2289/13804959/7b284ab8-eb0e-11e5-8939-e37713685fd0.png">
+![screen shot 2016-03-16 at 12 33 04 am](https://cloud.githubusercontent.com/assets/2289/13804996/b0a8046c-eb0e-11e5-9fc3-f37a9a0e8d09.png)
 
 ## Usage
 
