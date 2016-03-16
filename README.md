@@ -1,6 +1,6 @@
 # json-to-html-experiment 
 
-Render a JSON object as HTML with expandable and collapsible keys
+A little browserify-friendly demo of rendering a JSON object as HTML with expandable and collapsible keys
 
 ## Installation
 
