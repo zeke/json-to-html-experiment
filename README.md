@@ -1,16 +1,14 @@
-# json-to-html-experiment 
+# json-to-html-experiment
 
 A little browserify-friendly demo of rendering a JSON object as HTML with expandable and collapsible keys
 
-## Installation
+<img width="387" src="https://cloud.githubusercontent.com/assets/2289/13804959/7b284ab8-eb0e-11e5-8939-e37713685fd0.png">
 
-Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
+## Usage
 
 ```sh
-npm install json-to-html-experiment --save
+npm i && npm run build
 ```
-
-
 
 ## Dependencies
 
